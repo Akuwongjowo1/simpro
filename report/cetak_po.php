@@ -1,0 +1,178 @@
+<?php
+	include "../inc/koneksi.php";
+	
+	if (isset ($_POST['Cetak'])){
+	$id = $_POST['id_datang'];
+	}
+
+	$tanggal = date("m/y");
+	$tgl = date("d/m/y");
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>CETAK SURAT</title>
+</head>
+
+<body>
+	<center>
+
+		<h2>PEMERINTAH KABUPATEN PONOROGO</h2>
+		<h3>KECAMATAN SLAHUNG
+			<br>DESA JEBENG</h3>
+		<p>________________________________________________________________________</p>
+
+		<?php
+			$sql_tampil = "select * from tb_datang
+			where id_datang ='$id'";
+			
+			$query_tampil = mysqli_query($koneksi, $sql_tampil);
+			$no=1;
+			while ($data = mysqli_fetch_array($query_tampil,MYSQLI_BOTH)) {
+		?>
+	</center>
+
+	<center>
+		<h4>
+			<u>SURAT KETARANGAN PENDATANG</u>
+		</h4>
+		<h4>No Surat :
+			<?php echo $data['id_datang']; ?>/Ket.Pendatang/
+			<?php echo $tanggal; ?>
+		</h4>
+	</center>
+	<p>Yang bertandatangan dibawah ini Kepala Desa Jebeng, Kecamatan Slahung, Kabupaten Ponorogo, dengan ini menerangkan
+		bahawa :</P>
+	<table>
+		<tbody>
+			<tr>
+				<td>NIK</td>
+				<td>:</td>
+				<td>
+					<?php echo $data['nik']; ?>
+				</td>
+			</tr>
+			<tr>
+				<td>Nama</td>
+				<td>:</td>
+				<td>
+					<?php echo $data['nama_datang']; ?>
+				</td>
+			</tr>
+			<tr>
+				<td>Jenis Kelamin</td>
+				<td>:</td>
+				<td>
+					<?php echo $data['jekel']; ?>
+				</td>
+			</tr>
+			<tr>
+				<td>Tanggal Datang</td>
+				<td>:</td>
+				<td>
+					<?php echo $data['tgl_datang']; ?>
+				</td>
+			</tr>
+			<?php } ?>
+		</tbody>
+	</table>
+	<p>&nbsp;</p>
+	<table width="100%" border="1">
+	  <tr>
+	    <td><p>PURCHASE ORDER TO::</p>
+	      <p>Phone:</p>
+	      <p>Email: </p>
+        <p>&nbsp;</p></td>
+	    <td><p>PO NUMBER:</p>
+        <p>DATE::</p></td>
+	    <td>Ship to</td>
+	    <td>P</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+	  <tr>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+	    <td>&nbsp;</td>
+      </tr>
+</table>
+	<p>Benar-benar Telah datang dan berencana untuk tinggal di Desa Jebeng, Kecamatan Slahung, Kabupuaten Ponorogo.</P>
+	<p>Demikian Surat ini dibuat, agar dapat digunakan sebagaimana mestinya.</P>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<p align="right">
+	<div id="footer-tanggal">
+                Jebeng, <?php echo tgl_eng_to_ind("$hari_ini"); ?>
+            </div>
+            <div id="footer-jabatan">
+                Kepala Desa</div>
+            
+            <div id="footer-nama">
+               Budiyono
+            </div>
+	</p>
+
+
+	<script>
+		window.print();
+	</script>
+
+</body>
+
+</html>

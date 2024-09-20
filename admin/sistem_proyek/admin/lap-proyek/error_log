@@ -1,0 +1,28 @@
+[16-Sep-2023 22:43:14 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[16-Sep-2023 22:43:14 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[16-Sep-2023 22:43:14 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:43:14 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:43:15 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[16-Sep-2023 22:43:15 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[16-Sep-2023 22:43:15 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:43:15 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:46:01 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[16-Sep-2023 22:46:01 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[16-Sep-2023 22:46:01 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:46:01 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:46:02 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[16-Sep-2023 22:46:02 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[16-Sep-2023 22:46:02 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[16-Sep-2023 22:46:02 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[22-Sep-2023 21:26:07 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[22-Sep-2023 21:26:07 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[22-Sep-2023 21:26:07 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[22-Sep-2023 21:26:07 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[23-Sep-2023 21:28:20 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[23-Sep-2023 21:28:20 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetak.php on line 35
+[23-Sep-2023 21:28:20 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[23-Sep-2023 21:28:20 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[23-Sep-2023 21:28:24 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_awal in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[23-Sep-2023 21:28:24 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_akhir in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-proyek/cetaksemua.php on line 33
+[23-Sep-2023 21:28:24 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68
+[23-Sep-2023 21:28:24 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/jasakodi/public_html/demo/sistem_proyek/assets/plugins/html2pdf_v4.03/_class/locale.class.php on line 68

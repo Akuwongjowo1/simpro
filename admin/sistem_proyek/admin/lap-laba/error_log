@@ -1,0 +1,29 @@
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 72
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 73
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 74
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 119
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 161
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 196
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung3 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 197
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
+[30-Sep-2023 00:28:27 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 72
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 73
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 74
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 119
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 161
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 195
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 196
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung3 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 197
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
+[24-Nov-2023 09:31:55 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined index: jumlah in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 72
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 73
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 74
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 119
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 161
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 195
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Warning:  Use of undefined constant nominal - assumed 'nominal' (this will throw an Error in a future version of PHP) in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 196
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung3 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 197
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung1 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
+[30-Nov-2023 07:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: hitung2 in /home/jasakodi/public_html/demo/sistem_proyek/admin/lap-laba/index.php on line 198
