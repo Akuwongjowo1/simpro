@@ -2,4 +2,4 @@
 **Projek Tugas Akhir**
 
 
-Sistem Informasi Manajemen Proyek (SIMPRO) merupakan perangkat lunak berbasis desktop yang digunakan PT. RIZKY ANUGRAH SEJAHTERA.
+Sistem Informasi Manajemen Proyek (SIMPRO) merupakan perangkat lunak berbasis desktop website yang digunakan PT. RIZKY ANUGRAH SEJAHTERA.
